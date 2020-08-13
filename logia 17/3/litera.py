@@ -7,6 +7,6 @@ def litera(tab):
 
     print(bez_powtorzen)
     
-    
+      
 litera(['ala','ma','kota'])
 litera(['julka','lubi','psy'])
