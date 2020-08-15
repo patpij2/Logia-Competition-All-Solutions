@@ -67,5 +67,6 @@ def mozaika(kolory, klucz, wiersz):
         rt(90)
         fd(a)
 
+        
 
         
