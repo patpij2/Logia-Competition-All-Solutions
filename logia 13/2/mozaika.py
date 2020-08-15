@@ -14,7 +14,7 @@ def rysuj(a, wiersz):
         if znak == "c":
             kwd(a, "red")
         elif znak == "z":
-            kwd(a, "green")
+            kwd(a, "green"). 
         elif znak == "x":
             kwd(a, "black")
         elif znak == "b":
